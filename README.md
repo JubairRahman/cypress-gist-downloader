@@ -11,13 +11,12 @@
 
 "Cypress Gist Downloader" is an automation project that allows you to search and download GitHub Gists using Cypress, a powerful end-to-end testing framework for web applications. With this automation script, you can easily search for Gists on GitHub, locate the desired one, and download its content with just a few clicks.
 
-## Features
-
 - Automated GitHub Gist search.
 - Efficiently locate and download Gist contents.
 - Easy to use and customize for different scenarios.
 - Built with Cypress, making it reliable and robust.
 
+### Here I just search an user in GitHub and check the first Gist and Download it. I search my own [![GitHub](https://img.shields.io/badge/GitHub-JubairRahman-blue)](https://github.com/JubairRahman/) for this test and download my own [![GitHub](https://img.shields.io/badge/GitHub-cypress--gist--downloader-green)](https://github.com/JubairRahman/cypress-gist-downloader)
 
 ## Table of Contents
 
