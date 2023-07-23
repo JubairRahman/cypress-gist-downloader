@@ -2,9 +2,10 @@
 
 
 # Cypress Gist Downloader
+## GIF
 
+![projectGif](https://github.com/JubairRahman/Terminal-Portfolio/assets/84774437/0e3a34b5-1847-4fc4-87e7-958e0d4ea977)
 
-![Demo Gif](demo.gif)
 
 ## Description
 
@@ -17,9 +18,6 @@
 - Easy to use and customize for different scenarios.
 - Built with Cypress, making it reliable and robust.
 
-## Demo
-
-![Demo Video](demo.mp4)
 
 ## Table of Contents
 
