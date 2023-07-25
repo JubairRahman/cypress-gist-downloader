@@ -16,7 +16,7 @@
 - Easy to use and customize for different scenarios.
 - Built with Cypress, making it reliable and robust.
 
-### Here I just search an user in GitHub and check the first Gist and Download it. I search my own [![GitHub](https://img.shields.io/badge/GitHub-JubairRahman-blue)](https://github.com/JubairRahman/) for this test and download my own [![GitHub](https://img.shields.io/badge/GitHub-cypress--gist--downloader-green)](https://github.com/JubairRahman/cypress-gist-downloader)
+### Here I just search for a user in GitHub and check the first Gist and Download it. I search my own [![GitHub](https://img.shields.io/badge/GitHub-JubairRahman-blue)](https://github.com/JubairRahman/) for this test and download my own [![GitHub](https://img.shields.io/badge/GitHub-cypress--gist--downloader-green)](https://github.com/JubairRahman/cypress-gist-downloader)
 
 ## Table of Contents
 
